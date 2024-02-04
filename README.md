@@ -8,9 +8,9 @@ I'm using some tools for this project :
 
 
 # How to use the project ??
-First, install the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases/tag/v1.22.0)
-Then, clone my project (or get a release)
-And run : `cargo run`
+First, install the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases/tag/v1.22.0)  
+Then, clone my project (or get a release)  
+And run : `cargo run`  
 
 I'm open to any feedback, so let me know if you like this project or if somethings looks wrong in my code 😉
 
